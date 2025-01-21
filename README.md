@@ -1,6 +1,6 @@
 Hi there 👋
 
-<!--I am a recent Software Engineering graduate from Centennial College, with a strong foundation in the software development lifecycle, agile methodologies, and object-oriented programming.
+I am a recent Software Engineering graduate from Centennial College, with a strong foundation in the software development lifecycle, agile methodologies, and object-oriented programming.
 I am currently seeking remote opportunities where I can contribute my skills and passion for innovation. I am a trustworthy and dedicated professional.
 
 ✨Technical Skills:
@@ -38,4 +38,3 @@ I am currently seeking remote opportunities where I can contribute my skills and
 
 📱 Let's Connect: https://www.linkedin.com/in/fatimahbintiyasin/
 
--->
