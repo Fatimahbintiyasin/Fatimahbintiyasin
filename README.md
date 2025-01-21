@@ -24,7 +24,7 @@ I am currently seeking remote opportunities where I can contribute my skills and
 
 
 🤹‍♀️Soft Skills:
-•  Communication
+ Communication
 •  Teamwork
 •  Problem-solving
 •  Adaptability
