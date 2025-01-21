@@ -23,6 +23,7 @@ I am currently seeking remote opportunities where I can contribute my skills and
 
 
 🤹‍♀️Soft Skills: </br>
+
  Communication
 •  Teamwork
 •  Problem-solving
