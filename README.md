@@ -23,7 +23,7 @@ I am currently seeking remote opportunities where I can contribute my skills and
 <b>DevOps: </b> CI/CD (Continuous Integration/ Continuous Delivery), Jenkins, Azure DevOps, Git Bash</br>
 
 
-🤹‍♀️Soft Skills:
+🤹‍♀️Soft Skills: </br>
  Communication
 •  Teamwork
 •  Problem-solving
