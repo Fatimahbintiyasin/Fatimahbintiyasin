@@ -6,7 +6,7 @@ I am currently seeking remote opportunities where I can contribute my skills and
 
 ✨Technical Skills:
 
-<b>Object-Oriented Programming: </b? C#, Java, Python
+<b>Object-Oriented Programming: </b> C#, Java, Python
 
 •  Web Development: HTML, CSS, JavaScript, TypeScript, React, Angular, Express, Node.js
 
