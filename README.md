@@ -16,7 +16,6 @@ I am currently seeking remote opportunities where I can contribute my skills and
 <b>Testing: </b> QMS, QA, QC, Static White-Box Testing, Dynamic Black-Box Testing </br>
 <b>Machine Learning: </b> TensorFlow.js, M.L.NET Framework, Predictive Analysis</br>
 <b>Software Design: </b> UML, SRS Documents </br>
-<b>Data Analysis: </b> Power BI </br>
 <b>Communication: </b> Business Plan Document Writing </br>
 <b>Networking: </b> TCP/IP, HTTP Client-Server </br>
 <b>Version Control: </b> Git, GitHub </br>
