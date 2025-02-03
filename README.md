@@ -1,7 +1,8 @@
 Hi there👋
 
-I am a recent Software Engineering graduate from Centennial College, with a strong foundation in the software development lifecycle, agile methodologies, and object-oriented programming.
-I am currently seeking remote opportunities where I can contribute my skills and passion for innovation. I am a trustworthy and dedicated professional.
+I am a highly motivated Software Engineering Graduate seeking a Software Developer (Remote) position. 
+I am skilled in Software Development Life Cycle, Object-Oriented programming, Full-Stack application development, and project management with Agile methodologies, with a strong focus on creating modern, innovative solutions and promoting internet safety.
+As a trustworthy and dedicated professional, I’m eager to contribute to your organization’s success. Let’s connect to discuss how I can help you achieve your goals!
 
 
 ✨Technical Skills:
