@@ -1,11 +1,12 @@
-Hi there👋
+# 👋 Welcome
 
-I am a highly motivated Software Engineering Graduate seeking a Software Developer (Remote) position. 
-I am skilled in Software Development Life Cycle, Object-Oriented programming, Full-Stack application development, and project management with Agile methodologies, with a strong focus on creating modern, innovative solutions and promoting internet safety.
+## 🚀 About Me
+
+I am a highly motivated Software Engineer skilled in Software Development Life Cycle, Object-Oriented programming, Full-Stack application development, and project management with Agile methodologies, with a strong focus on creating modern, innovative solutions and promoting internet safety.
 As a trustworthy and dedicated professional, I’m eager to contribute to your organization’s success. Let’s connect to discuss how I can help you achieve your goals!
 
 
-✨Technical Skills:
+## 🛠️ Tech Stack
 
 <b>Object-Oriented Programming: </b> C#, Java, Python </br>
 <b>Web Development: </b> HTML, CSS, JavaScript, TypeScript, React, Angular, Express, Node.js</br>
@@ -23,7 +24,7 @@ As a trustworthy and dedicated professional, I’m eager to contribute to your o
 <b>DevOps: </b> CI/CD, Jira, Docker, Jenkins, Azure DevOps, Git Bash </br>
 <b>Others: </b> Unix/ Linux Operating System </br>
 
-🤹‍♀️Soft Skills: </br>
+## 🤹‍♀️Soft Skills </br>
 
  Communication
 •  Teamwork
@@ -39,5 +40,9 @@ As a trustworthy and dedicated professional, I’m eager to contribute to your o
 •  Collaboration
 
 
-📱Let's Connect: https://www.linkedin.com/in/fatimahbintiyasin/
+## 📫 Let's Connect
+
+- 📩 **Email:** fatimahbintiyasin5@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/fatimahbintiyasin/
+- 🐦 **X:** https://x.com/Fatimah_Yasin5
 
