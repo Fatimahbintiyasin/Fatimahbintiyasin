@@ -8,13 +8,12 @@ As a trustworthy and dedicated professional, I’m eager to contribute to your o
 
 ## 🛠️ Tech Stack
 
-<b>Object-Oriented Programming: </b> C#, Java, Python </br>
-<b>Web Development: </b> HTML, CSS, JavaScript, TypeScript, React, Angular, Express, Node.js</br>
-<b>Frameworks: </b> MEAN Stack, MERN Stack, Spring Boot, MVC</br>
-<b>Databases: </b> SQL, NoSQL (MongoDB), MySQL, Firebase</br>
-<b>Mobile Development: </b> Android app using Java and Kotlin </br>
+<b>Front-end: </b> HTML, CSS, Bootstrap, JavaScript, React, Angular </br>
+<b>Back-end: </b> Python, NodeJS, Express JS, Java, Spring Boot, C#, ASP.NET Core </br>
+<b>Databases: </b> MongoDB, MySQL, Oracle, SQL Server, Firebase</br>
+<b>API: </b> REST API, GraphQL, Flask </br>
 <b>Cloud Platforms: </b> AWS, Microsoft Azure, Heroku, Google Cloud </br>
-<b>API: </b> REST, GraphQL, Flask, ASP.NET Core Web API</br>
+<b>Mobile Development: </b> Android app using Java and Kotlin </br>
 <b>Testing: </b> QMS, QA, QC, Static White-Box Testing, Dynamic Black-Box Testing </br>
 <b>Machine Learning: </b> TensorFlow.js, M.L.NET Framework, Predictive Analysis</br>
 <b>Software Design: </b> UML, SRS Documents, UI/UX </br>
