@@ -44,5 +44,5 @@ As a trustworthy and dedicated professional, I’m eager to contribute to your o
 - 💻 **Portfolio:** https://fatimahdevhub.com/
 - 📩 **Email:** fatimahbintiyasin5@gmail.com
 - 🐦 **X:** https://x.com/Fatimah_Yasin5
-- - 🔗 **LinkedIn:** https://www.linkedin.com/in/fatimahbintiyasin/
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/fatimahbintiyasin/
 
