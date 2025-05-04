@@ -25,8 +25,10 @@ As a trustworthy and dedicated professional, I’m eager to contribute to your o
 
 ## 🤹‍♀️Soft Skills </br>
 
- Communication
+ 
+ Agility
 •  Teamwork
+•  Communication
 •  Problem-solving
 •  Adaptability
 •  Time management
